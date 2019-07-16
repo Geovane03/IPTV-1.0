@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:0 logo=SBT,SBT
-https://live.multicanais.com/live/globosphd/video.m3u8
+#EXTINF:0 logo=GLOBO,GLOBO
+https://d3egrn9e6sesy8.cloudfront.net/hls1/bobosp-42504.ts
