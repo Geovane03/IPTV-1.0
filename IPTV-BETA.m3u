@@ -8,3 +8,12 @@ https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1845076060.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title-"CANAIS ABERTOS",RBTV
 https://59f1cbe63db89.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w458811004.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title-"CANAIS ABERTOS",SBT
+http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/chunklist_w170167969.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title-"CANAIS ABERTOS",TV CULTURA
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title-"CANAIS ABERTOS",TV CAMARA
+https://stream3.camara.gov.br/tv1/manifest.m3u8
